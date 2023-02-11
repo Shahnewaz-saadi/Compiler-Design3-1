@@ -1,0 +1,74 @@
+#include <stdio.h >
+# define FastIO ios_base::sync_with_stdio(false); cin.tie(NULL)
+# define Ignore cin.ignore()
+int main() {
+int m = 0;
+int a, b;
+int n = 51;
+m += gh;
+a = 10;
+b = 20;
+int c = a + b;
+printf("%d", c);
+printf("Hi, i am anik saha.");
+return 0;
+}
+line - 1 "#include <stdio.h >" is correct
+line - 2 "# define FastIO ios_base::sync_with_stdio(false); cin.tie(NULL)" is correct
+line - 3 "# define Ignore cin.ignore()" is correct
+int, as : KEY_WORD
+main, as : Identifiers
+(, as : PARENTHESIS
+), as : PARENTHESIS
+{, as : PARENTHESIS
+int, as : KEY_WORD
+m, as : Identifiers
+=, as : BINARY_OPERATOR
+0, as : Identifiers
+;, as : Identifiers
+int, as : KEY_WORD
+a, as : Identifiers
+,, as : Identifiers
+b, as : Identifiers
+;, as : Identifiers
+int, as : KEY_WORD
+n, as : Identifiers
+=, as : BINARY_OPERATOR
+51, as : Identifiers
+;, as : Identifiers
+m, as : Identifiers
++, as : BINARY_OPERATOR
+=, as : BINARY_OPERATOR
+gh, as : Identifiers
+;, as : Identifiers
+a, as : Identifiers
+=, as : BINARY_OPERATOR
+10, as : Identifiers
+;, as : Identifiers
+b, as : Identifiers
+=, as : BINARY_OPERATOR
+20, as : Identifiers
+;, as : Identifiers
+int, as : KEY_WORD
+c, as : Identifiers
+=, as : BINARY_OPERATOR
+a, as : Identifiers
++, as : BINARY_OPERATOR
+b, as : Identifiers
+;, as : Identifiers
+printf, as : Identifiers
+(, as : PARENTHESIS
+%d, as : CONSTANTS
+,, as : Identifiers
+c, as : Identifiers
+), as : PARENTHESIS
+;, as : Identifiers
+printf, as : Identifiers
+(, as : PARENTHESIS
+Hi, i am anik saha., as : CONSTANTS
+), as : PARENTHESIS
+;, as : Identifiers
+return, as : KEY_WORD
+0, as : Identifiers
+;, as : Identifiers
+}, as : PARENTHESIS
